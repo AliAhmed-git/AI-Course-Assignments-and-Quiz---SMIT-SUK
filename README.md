@@ -4,4 +4,4 @@ All the assignments and quizes will be listed down here if you are having proble
 Please commit changes when necessary
 
 Rules:
-1. All the assingment folder should be dated
+1. All the assignment folder should be dated
